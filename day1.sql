@@ -11,7 +11,7 @@ create table student_master (
 insert into
   student_master (name, address)
 values
-  ('John', 'USA');
+  ('Alex', 'USA');
 
 insert into
   student_master (name, address)
